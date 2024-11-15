@@ -1,0 +1,8 @@
+{
+  "lastId": 3,
+  "items": [
+    { "id": 1, "name": "ABC Elektronik" },
+    { "id": 2, "name": "XYZ Teknoloji" },
+    { "id": 3, "name": "123 Bilişim" }
+  ]
+}

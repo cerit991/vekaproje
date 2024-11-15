@@ -1,0 +1,9 @@
+{
+  "lastId": 4,
+  "items": [
+    { "id": 1, "name": "Bilgisayarlar" },
+    { "id": 2, "name": "Telefonlar" },
+    { "id": 3, "name": "Tabletler" },
+    { "id": 4, "name": "Aksesuarlar" }
+  ]
+}

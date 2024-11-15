@@ -1,0 +1,39 @@
+{
+  "companies": [
+    { "id": 1, "name": "ABC Elektronik" },
+    { "id": 2, "name": "XYZ Teknoloji" },
+    { "id": 3, "name": "123 Bilişim" }
+  ],
+  "categories": [
+    { "id": 1, "name": "Bilgisayarlar" },
+    { "id": 2, "name": "Telefonlar" },
+    { "id": 3, "name": "Tabletler" },
+    { "id": 4, "name": "Aksesuarlar" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Gaming Laptop",
+      "price": 25000,
+      "categoryId": "1",
+      "companyId": "1",
+      "image": null
+    },
+    {
+      "id": 2,
+      "name": "Akıllı Telefon",
+      "price": 15000,
+      "categoryId": "2",
+      "companyId": "2",
+      "image": null
+    },
+    {
+      "id": 3,
+      "name": "Tablet Pro",
+      "price": 12000,
+      "categoryId": "3",
+      "companyId": "3",
+      "image": null
+    }
+  ]
+}
